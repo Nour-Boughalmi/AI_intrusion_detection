@@ -1,0 +1,95 @@
+============================================================
+RAPPORT DE DÉTECTION D'ANOMALIES - LOF
+============================================================
+
+Total événements analysés: 14613
+Anomalies détectées: 3649 (25.0%)
+Événements normaux: 10964 (75.0%)
+
+Détail par niveau:
+  - Error: 32/297 anomalies (10.8%)
+  - Information: 3617/14215 anomalies (25.4%)
+  - Warning: 0/9 anomalies (0.0%)
+  - Critical: 0/1 anomalies (0.0%)
+  - - Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 (KB3185319): 0/1 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3142026): 0/9 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3037576): 0/8 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3135985): 0/7 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3127222): 0/6 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3074545): 0/5 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3163247): 0/4 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3122651): 0/3 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3097992): 0/2 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3023219): 0/1 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3122654): 0/9 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3163291): 0/8 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3142030): 0/7 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3127226): 0/6 anomalies (0.0%)
+  - - Security Update for Windows Server 2012 R2 (KB3172729): 0/5 anomalies (0.0%)
+  - - Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3135994): 0/4 anomalies (0.0%)
+  - - Security Update for Windows Server 2012 R2 (KB3121461): 0/3 anomalies (0.0%)
+  - - Security Update for Windows Server 2012 R2 (KB3042058): 0/2 anomalies (0.0%)
+  - - Update for Windows Server 2012 R2 (KB3172614): 0/1 anomalies (0.0%)
+
+
+Détail des anomalies:
+
+--- Anomalie ---
+Date: 12/19/2016 3:39:38 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 97547261.0206
+
+--- Anomalie ---
+Date: 12/19/2016 3:31:30 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 195744836.1514
+
+--- Anomalie ---
+Date: 12/19/2016 3:30:10 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 147540232.0319
+
+--- Anomalie ---
+Date: 12/19/2016 3:26:39 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 195744836.1514
+
+--- Anomalie ---
+Date: 12/19/2016 3:03:05 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 153636935.8266
+
+--- Anomalie ---
+Date: 12/19/2016 2:45:00 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 93645370.5498
+
+--- Anomalie ---
+Date: 12/19/2016 2:34:59 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 93645370.5498
+
+--- Anomalie ---
+Date: 12/19/2016 2:25:35 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 236552106.5817
+
+--- Anomalie ---
+Date: 12/19/2016 2:25:35 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 317028596.2966
+
+--- Anomalie ---
+Date: 12/19/2016 2:25:35 PM
+Source: Service Control Manager
+Event ID: 7036.0
+Score: 236552106.5817

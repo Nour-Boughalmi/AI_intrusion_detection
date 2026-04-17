@@ -1,0 +1,7 @@
+log_id,source,anomaly_score_norm,fusion_unsup
+0,application,0.0,anomaly
+1,application,1.0,normal
+2,application,1.0,normal
+3,application,1.0,normal
+4,application,1.0,normal
+5,application,1.0,normal

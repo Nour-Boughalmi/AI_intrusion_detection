@@ -1,0 +1,1 @@
+{"n_features": 78, "n_classes": 13, "classes": ["BENIGN", "Bot", "DDoS", "DoS GoldenEye", "DoS Hulk", "DoS Slowhttptest", "DoS slowloris", "FTP-Patator", "PortScan", "SSH-Patator", "Web Attack \ufffd Brute Force", "Web Attack \ufffd Sql Injection", "Web Attack \ufffd XSS"]}

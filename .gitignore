@@ -1,0 +1,21 @@
+.env
+.conda/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Large data files (exceed GitHub 100MB limit)
+Non supervisé/Data/logs cloud.csv
+Non supervisé/Notebooks/outputs/cloud_output_normalized.csv
+Supervisé/data/Week_filtered.csv
+Supervisé/data/TCP/packets-phase1-2016-12-08-labelled.csv
+Supervisé/data/TCP/packets-phase1-2016-12-09-labelled.csv
+Supervisé/data/TCP/packets-phase1-2016-12-15-labelled.csv
+Supervisé/data/TCP/packets-phase1-2016-12-16-labelled (1).csv
+Supervisé/data/TCP/packets-phase1-2016-12-19-labelled (1).csv
